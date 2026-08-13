@@ -1,0 +1,7 @@
+fastapi==0.139.2
+uvicorn==0.51.0
+python-multipart==0.0.20
+pydantic==2.13.4
+requests==2.34.2
+PyMuPDF==1.28.0
+Pillow==11.2.1
