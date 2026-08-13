@@ -1,4 +1,4 @@
-# Redact
+# Redact — precise, private document redaction
 
 A redaction tool for text, PDFs and images. Paste text or upload a file,
 pick which entity types matter, and get back a copy with the sensitive
